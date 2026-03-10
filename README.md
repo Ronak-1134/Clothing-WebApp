@@ -2,7 +2,7 @@
 
 A fully responsive **React e-commerce web application** with Firebase authentication and dynamic shopping cart functionality.
 
-🔗 **[Live Demo]([https://your-live-demo-link.com](https://clothing-web-app-dun.vercel.app/))**
+🔗 **[Live Demo](https://clothing-web-app-dun.vercel.app/)**
 
 ---
 
