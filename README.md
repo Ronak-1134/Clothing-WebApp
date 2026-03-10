@@ -1,21 +1,45 @@
-🛍️ Clothing-WebApp
-An elegant, fully responsive e-commerce web application built using React, with authentication powered by Firebase. This project simulates a clothing storefront, complete with product listings, cart functionality, and user login.
+# 🛍️ Clothing WebApp
 
+A fully responsive **React e-commerce web application** with Firebase authentication and dynamic shopping cart functionality.
 
-🧰 Tech Stack
-React 18 – Frontend framework
-Firebase – Authentication & (optionally) Firestore database
-Redux Toolkit – State management
-SCSS – Modular styling
-React Router v6 – Client-side routing
-Vite – Fast build and development tool
-Vitest & React Testing Library – Unit testing
+🔗 **[Live Demo]([https://your-live-demo-link.com](https://clothing-web-app-dun.vercel.app/))**
 
+---
 
-📦 Features
-🔐 Firebase login/signup with persistent sessions
-🛒 Add/remove items to cart with mini-cart preview
-📊 Dynamic cart total calculation
-📱 Fully responsive across devices
-🧩 Modular component architecture
-🎯 Deployment via GitHub Pages using CI/CD workflow
+## 🚀 Features
+- 🔐 Firebase Authentication (Login / Signup)
+- 🛒 Add, remove, and update items in cart
+- ⚡ Built with Vite for fast development
+- 📱 Fully responsive design
+- 🧪 Testing with Vitest and React Testing Library
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React 18, React Router v6  
+- **State Management:** Redux Toolkit  
+- **Styling:** SCSS  
+- **Backend:** Firebase (Auth & Firestore)  
+- **Testing:** Vitest, React Testing Library  
+- **Build Tool:** Vite  
+
+---
+
+## 💻 Installation
+
+```bash
+git clone https://github.com/Ronak-1134/Clothing-WebApp.git
+cd clothing-webapp
+npm install
+npm run dev
+```
+## 🔑 Environment Variables
+Create a .env file in the root directory and add:
+
+```bash
+VITE_FIREBASE_API_KEY=your_key_here
+```
+## 👨‍💻 Author
+
+Ronak Vaghela
+Computer Engineering Student | Full-Stack Enthusiast
